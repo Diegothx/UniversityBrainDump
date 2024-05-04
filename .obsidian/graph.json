@@ -5,18 +5,61 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:MATEMATICA",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:INFORMATICA/FUNCIONAMIENTO_COMPUTADORES  ",
+      "color": {
+        "a": 1,
+        "rgb": 11250603
+      }
+    },
+    {
+      "query": "path:INFORMATICA/DESARROLLO_SOFTWARE  ",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
+      }
+    },
+    {
+      "query": "path:INFORMATICA/INTELIGENCIA_ARTIFICIAL  ",
+      "color": {
+        "a": 1,
+        "rgb": 13107455
+      }
+    },
+    {
+      "query": "path:INFORMATICA/BASES_DE_DATOS  ",
+      "color": {
+        "a": 1,
+        "rgb": 54783
+      }
+    },
+    {
+      "query": "path:INFORMATICA/ESTRUCTURA_DE_DATOS  ",
+      "color": {
+        "a": 1,
+        "rgb": 165120
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.46875,
+  "repelStrength": 10.625,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 206,
+  "scale": 0.25883865621816565,
   "close": true
 }

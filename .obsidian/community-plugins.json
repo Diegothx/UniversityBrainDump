@@ -12,5 +12,7 @@
   "dataview",
   "obsidian-checklist-plugin",
   "calendar",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-textgenerator-plugin",
+  "smart-connections"
 ]
