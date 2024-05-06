@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Optimizer.md",
+                "file": "INFORMATICA/ESTRUCTURA_DE_DATOS/ARBOLES/B+TREES.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"FISICA/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Optimizer.md",
+                "file": "INFORMATICA/ESTRUCTURA_DE_DATOS/ARBOLES/B+TREES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Optimizer.md",
+                "file": "INFORMATICA/ESTRUCTURA_DE_DATOS/ARBOLES/B+TREES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Optimizer.md"
+                "file": "INFORMATICA/ESTRUCTURA_DE_DATOS/ARBOLES/B+TREES.md"
               }
             }
           },
@@ -210,10 +211,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "cd962546ca57d069",
+  "active": "846d1682636c5d51",
   "lastOpenFiles": [
-    "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Executor.md",
     "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Optimizer.md",
+    "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Executor.md",
+    "Pasted image 20240504221433.png",
+    "Pasted image 20240504204843.png",
+    "Pasted image 20240504183813.png",
+    "Pasted image 20240504121523.png",
+    "Pasted image 20240504121515.png",
     "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Query_Rewrite.md",
     "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Procesador_de_consultas.md",
     "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/QUERY_PROCESSOR/Preprocessor.md",
@@ -239,18 +245,12 @@
     "INFORMATICA/ESTRUCTURA_DE_DATOS/HASH/Static_hashing.md",
     "INFORMATICA/ESTRUCTURA_DE_DATOS/Hash_Table.md",
     "INFORMATICA/ESTRUCTURA_DE_DATOS/HeapFiles.md",
-    "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/IMAGES/Pasted image 20240425202752.png",
     "Heapfile.md",
-    "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/IMAGES/Pasted image 20240425202515.png",
-    "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/IMAGES/Pasted image 20240402165842.png",
-    "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/IMAGES/Pasted image 20240503135501.png",
     "ToDo.md",
-    "INFORMATICA/BASES_DE_DATOS/SISTEMAS_DE_MANEJO_DE_DATOS(DBMS)/IMAGES/Pasted image 20240502200832.png",
     "INFORMATICA/ALGORITMOS/SORTING",
     "INFORMATICA/ALGORITMOS",
     "INFORMATICA/ESTRUCTURA_DE_DATOS/BitMap.md",
     "INFORMATICA/ESTRUCTURA_DE_DATOS/HASH",
-    "INFORMATICA/INTELIGENCIA_ARTIFICIAL/MACHINE_LEARNING/SUPERVISADO/DEEP_LEARNING/YOLO (You Only Look Once).md",
     "INFORMATICA/INTELIGENCIA_ARTIFICIAL/MACHINE_LEARNING/NO_SUPERVISADO",
     "INFORMATICA/INTELIGENCIA_ARTIFICIAL/MACHINE_LEARNING/REFORZADO",
     "INFORMATICA/INTELIGENCIA_ARTIFICIAL/MACHINE_LEARNING/SUPERVISADO",
