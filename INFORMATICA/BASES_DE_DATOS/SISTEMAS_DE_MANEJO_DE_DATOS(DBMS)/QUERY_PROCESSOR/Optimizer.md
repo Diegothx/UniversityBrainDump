@@ -273,7 +273,7 @@ rsize(πL(R)) = ∑att∈L E(∣πatt (R)∣)
 *Esta proyección no considera eliminacion de duplicados.*
 ### Sorting
 - [[External_Merge-sort]].
-- [[B+TREES]].
+- [[B+-TREES]].
 	Si un B+-tree hace match para una tarea de sorting, entonces considerar usar el índice.
 		Clustered index : el mejor de los casos.
 		Unclustered index

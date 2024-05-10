@@ -1,5 +1,5 @@
 B+-trees: ´Indice din´amico
-Estructura similar a ISAM, pero . . .
+Estructura similar a [[ISAM]], pero . . .
 No usa p´aginas de overflow y siempre esta balanceado.
 Mantiene la eficiencia de b´usqueda: O( logB (#tuplas)) .
 Procedimientos eficientes de insertar/eliminar elementos.

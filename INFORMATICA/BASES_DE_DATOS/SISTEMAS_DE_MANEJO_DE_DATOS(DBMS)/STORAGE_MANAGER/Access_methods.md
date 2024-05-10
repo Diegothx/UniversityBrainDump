@@ -9,7 +9,9 @@
 
 ## Procesador de consultas
 Procesador de consultas Considera las relaciones como “colección de records”. Administrador de almacenamiento provee al procesador de consultas con métodos para acceder estas colecciones de records. Estos métodos son conocidos como métodos de acceso.  ### Evaluación de consulta y métodos de acceso 
-```sql Q = SELECT       pName, mStadium, goals     FROM       Players AS P, Matches AS M, Players Matches AS PM     WHERE       P.pId = PM.pId AND PM.mId = M.mId AND       P.pYear ≥ 1985```
+```sql 
+Q = SELECT       pName, mStadium, goals     FROM       Players AS P, Matches AS M, Players Matches AS PM     WHERE       P.pId = PM.pId AND PM.mId = M.mId AND       P.pYear ≥ 1985
+```
 
 Plan físico para evaluar Q:
 
@@ -124,7 +126,7 @@ Costo de la b´usqueda: log2(#pages)
 1. Índices basados en árboles:
 	![[Pasted image 20240426153546.png]]
     - [[ISAM]]: Indexed Sequential Access Method.
-    - [[B+TREES]].
+    - [[B+-TREES]].
 2. [Índices basados en hashing](Tabla_de_hash.md):
 	Indices basados en Hashing
 	Eficientes para consultas de valores (value query):
